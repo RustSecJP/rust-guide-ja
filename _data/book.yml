@@ -8,6 +8,7 @@ source: https://github.com/ANSSI-FR/rust-guide
 license: Open Licence 2.0
 license_url: https://github.com/ANSSI-FR/rust-guide/blob/master/LICENSE.md
 version: 2026-05-18 時点の英語版（コミット 3f9e2e2）
+translated: 2026-11-20
 disclaimer: ANSSI・RustSec・Rust Project・Rust Foundation とは提携していません。
 nav:
   - {file: checklist.html, title: 規則と推奨の一覧}

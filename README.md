@@ -48,6 +48,15 @@ $ mdbook serve -o
 
 原文への貢献は、[原文の CONTRIBUTING.md](https://github.com/ANSSI-FR/rust-guide/blob/master/CONTRIBUTING.md) を見てください。日本語訳の誤訳の指摘や訳語の提案は、このリポジトリの Issue か Pull Request でお願いします。
 
+## 訳した版
+
+| | |
+|---|---|
+| 原文の版 | 2026-05-18 時点の英語版（コミット [`3f9e2e2`](https://github.com/ANSSI-FR/rust-guide/commit/3f9e2e28095d0eeb35ed61e212a82be12fde4884)） |
+| 翻訳日 | 2026-11-20 |
+
+原文がこの版より後に更新されている場合、訳は古い内容のままです。
+
 ## ライセンス
 
 この文書は [Open Licence 2.0](https://github.com/ANSSI-FR/rust-guide/blob/master/LICENSE.md) で公開されています。日本語訳も同じライセンスで公開します。出典の詳細は [NOTICE.md](NOTICE.md) にあります。
