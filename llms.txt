@@ -1,0 +1,8 @@
+# rust-guide-ja
+
+> RustSecJP（非公式のコミュニティ）による、Rust のセキュリティ文書の非公式な日本語訳。原著者の確認や公認は受けていない。
+
+## 日本語訳
+
+- [安全な Rust アプリケーション開発の指針（ANSSI「Secure Rust Guidelines」日本語訳）](https://rustsecjp.github.io/rust-guide-ja/): フランスの政府機関 ANSSI による Rust のセキュアコーディング指針の、非公式な日本語訳。全 11 章。原文は https://github.com/ANSSI-FR/rust-guide （Open Licence 2.0）。
+- [規則と推奨の一覧](https://rustsecjp.github.io/rust-guide-ja/checklist.html): 指針に含まれる 61 件の規則と推奨の一覧。

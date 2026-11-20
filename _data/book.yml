@@ -1,0 +1,26 @@
+short: Secure Rust Guidelines
+title: 安全な Rust アプリケーション開発の指針
+original_title: Secure Rust Guidelines
+seo_title: 安全な Rust アプリケーション開発の指針（ANSSI「Secure Rust Guidelines」日本語訳）
+summary: フランスの政府機関 ANSSI が公開している Rust のセキュアコーディング指針「Secure Rust Guidelines」の、非公式な日本語訳。開発環境、ライブラリ、整数演算、エラー処理、unsafe、FFI、標準ライブラリの規則と推奨を全文訳している。
+author: ANSSI（フランス国家情報システムセキュリティ庁）
+source: https://github.com/ANSSI-FR/rust-guide
+license: Open Licence 2.0
+license_url: https://github.com/ANSSI-FR/rust-guide/blob/master/LICENSE.md
+version: 2026-05-18 時点の英語版（コミット 3f9e2e2）
+disclaimer: ANSSI・RustSec・Rust Project・Rust Foundation とは提携していません。
+nav:
+  - {file: checklist.html, title: 規則と推奨の一覧}
+chapters:
+  - {file: introduction.html, title: はじめに}
+  - {file: devenv.html, title: 開発環境}
+  - {file: libraries.html, title: ライブラリ}
+  - {file: naming.html, title: 命名}
+  - {file: integer.html, title: 整数演算}
+  - {file: errors.html, title: エラー処理}
+  - {file: guarantees.html, title: 言語の保証}
+  - {file: unsafe/generalities.html, title: "unsafe Rust: 概論"}
+  - {file: unsafe/memory.html, title: "unsafe Rust: メモリ管理"}
+  - {file: unsafe/ffi.html, title: "unsafe Rust: FFI"}
+  - {file: standard.html, title: 標準ライブラリ}
+  - {file: checklist.html, title: 規則と推奨の一覧}
