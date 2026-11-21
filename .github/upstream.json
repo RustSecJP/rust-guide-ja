@@ -1,0 +1,1 @@
+{n  "upstreams": [n    {n      "repo": "ANSSI-FR/rust-guide",n      "branch": "master",n      "paths": [n        "src/en"n      ],n      "base": "3f9e2e28095d0eeb35ed61e212a82be12fde4884"n    }n  ]n}
